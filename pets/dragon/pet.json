@@ -1,0 +1,30 @@
+{
+  "id": "dragon",
+  "name": "Drache",
+  "palette": {
+    "o": "#000000",
+    "k": "#000000",
+    "m": "#3C9A2E",
+    "s": "#8FD16A",
+    "e": "#F8D85A",
+    "p": "#F49AC0"
+  },
+  "pixels": [
+    "..o..........o..",
+    "..os........so..",
+    "...os......so...",
+    "....oooooooo....",
+    "...ommmmmmmmo...",
+    "o.omkemmmmkemo.o",
+    "osoommmmmmmmooso",
+    "ossommmkkmmmosso",
+    "ossoommmmmmoosso",
+    "osssommmmmmossso",
+    ".ossomeeeemosso.",
+    "....omeeeemo....",
+    "....omeeeemoo...",
+    "....omeeeemmoo..",
+    "....ommoommmmo..",
+    "....oooooooooo.."
+  ]
+}

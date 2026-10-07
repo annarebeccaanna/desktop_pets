@@ -1,0 +1,30 @@
+{
+  "id": "axolotl",
+  "name": "Axolotl",
+  "palette": {
+    "o": "#000000",
+    "k": "#000000",
+    "m": "#F7A8C8",
+    "s": "#E2563A",
+    "e": "#FFE0EC",
+    "p": "#F49AC0"
+  },
+  "pixels": [
+    "................",
+    "s.s..oooooo..s.s",
+    ".ss.ommmmmmo.ss.",
+    "sssommmmmmmmosss",
+    ".ssomkmmmmkmoss.",
+    "sssommmmmmmmosss",
+    "...ommmkkmmmo...",
+    "....ommmmmmo....",
+    "...ommmmmmmmo...",
+    "..ommmeeeemmmo..",
+    "..ommmeeeemmmooo",
+    "..ommmeeeemmmmmo",
+    "..ommmmmmmmmooo.",
+    "..omoommoommo...",
+    "..oo.oo..oo.....",
+    "................"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dog",
+  "name": "Hund",
+  "palette": {
+    "o": "#000000",
+    "k": "#000000",
+    "m": "#C8874A",
+    "s": "#6B3E1E",
+    "e": "#FFFFFF",
+    "p": "#E2563A"
+  },
+  "pixels": [
+    "................",
+    "....oooooooo....",
+    "...ommmmmmmmo...",
+    ".ooommmmmmmmooo.",
+    "ossomkemmkemosso",
+    "ossomkkmmkkmosso",
+    "ossommmmmmmmosso",
+    "ossomeekkeemosso",
+    "..oomeeppeemoo..",
+    "....ommppmmo....",
+    "....oommmmoo....",
+    "...ommmmmmmmo...",
+    "..ommmeeeemmmo..",
+    "..ommmeeeemmmo..",
+    "..ommoommoommo..",
+    "..oooooooooooo.."
+  ]
+}

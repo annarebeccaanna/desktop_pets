@@ -1,0 +1,30 @@
+{
+  "id": "cat",
+  "name": "Katze",
+  "palette": {
+    "o": "#000000",
+    "k": "#000000",
+    "m": "#E8A040",
+    "s": "#FFF4D8",
+    "e": "#FFFFFF",
+    "p": "#F49AC0"
+  },
+  "pixels": [
+    "..o..........o..",
+    "..oo........oo..",
+    "..omo......omo..",
+    "..ompoooooopmo..",
+    "..ommmmmmmmmmo..",
+    ".ommmkemmkemmmo.",
+    ".ommmkkmmkkmmmo.",
+    ".ommmmmppmmmmmo.",
+    ".osmmmmkkmmmmso.",
+    "..ommmmmmmmmmo..",
+    "...ossmmmmsso...",
+    "..omssssssssmo..",
+    ".ommssssssssmmo.",
+    ".ommssssssssmmo.",
+    ".ommmsmmmmsmmmo.",
+    "..oooooooooooo.."
+  ]
+}
